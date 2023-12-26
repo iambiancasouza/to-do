@@ -4,7 +4,7 @@
 <img src="./src/assets/todo.gif" width="500px"/>
 </h1>
 
-<h1 align="center">< a href="https://iambiancasouza.github.io/to-do/" target="_blank">See me here 😉</a></h1>
+<h1 align="center"><a href="https://iambiancasouza.github.io/to-do/">See me here 😉</a></h1>
 
 
 ## About
