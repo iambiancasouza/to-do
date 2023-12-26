@@ -14,7 +14,6 @@ Finally, my creator decided to remember to make me, apparently I wasn't a priori
 Anyway, as you can see, I'm a to-do list, just like thousands of others already out there.
 Add tasks, remove them, and by clicking on the tasks, they become marked as completed, which can be reversed by clicking again.
 
-PS: I'm also responsive. 🙂
 
 
 ## Tools used on me
