@@ -16,9 +16,9 @@ Add tasks, remove them, and by clicking on the tasks, they become marked as comp
 
 ## How do I work? 
 
-Click on task = task done
-Remove = remove
-Add task = click add or enter key.
+Click on task = task done ✅
+Remove = remove ❌
+Add task = click add or enter key. 📝
 
 As simple as that.
 
