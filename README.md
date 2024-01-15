@@ -1,7 +1,7 @@
 <h1 align="center"> To-do list 📋
   
 <br><br>
-<img src="../todo(2).png"/>
+<img src="./Todo(2).png"/>
 </h1>
 
 <h1 align="center"><a href="https://iambiancasouza.github.io/to-do/">See me here 😉</a></h1>
