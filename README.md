@@ -1,6 +1,6 @@
 <h1 align="center"> To-do list 📋
   
-<br><br>
+<br>
 <img src="/src/Todo.png"/>
 </h1>
 
