@@ -1,6 +1,5 @@
-<h1> 📋To-do list 
+<h1> 📋To-do list </h1>
   
-<br>
 <img src="/src/Todo.png"/>
 </h1>
 
